@@ -1,6 +1,6 @@
 ### Hi, I’m @lremor, Lawyer and data analyst
 
-In law I specialize in data protection and its laws, I also do backend work and data analysis with a specialty in Python, R and SQL, among others.
+I am a specialist in data protection and its laws, I also do backend and data analysis work with a specialty in Python, R and SQL, among others.
 
 👨‍💻 - Data analyst 👨‍⚖️ - Lawyer
 
