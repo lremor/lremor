@@ -2,8 +2,7 @@
 
 In law I specialize in data protection and its laws, I also do backend work and data analysis with a specialty in Python, R and SQL, among others.
 
-👨‍💻 - Data analystㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-👨‍⚖️ - Lawyer
+👨‍💻 - Data analyst 👨‍⚖️ - Lawyer
 
 ### You can also find me at:
 <a href="https://www.linkedin.com/in/luisremor/">
