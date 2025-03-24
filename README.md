@@ -1,8 +1,8 @@
-### Hi, I’m @lremor, Lawyer and data analyst
+### Hi, I’m @lremor, a cybersecurity analyst and in my spare time I'm a lawyer.
 
-I am a specialist in data protection and its laws, I also do backend and data analysis work with a specialty in Python, R and SQL, among others.
+I'm a specialist in data protection and related laws, and I also have expertise in cybersecurity and data privacy.
 
-👨‍💻 - Data analyst 👨‍⚖️ - Lawyer
+👨‍💻 - Cybersecurity 👨‍⚖️ - Lawyer
 
 ### You can also find me at:
 <a href="https://www.linkedin.com/in/luisremor/">
